@@ -13,3 +13,4 @@
   index.html
   style.css
   server.js
+  README.md
