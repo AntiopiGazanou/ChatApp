@@ -7,3 +7,9 @@
 
   The app is basically a chat application that you can create an account, log in, invite people and create chat rooms 
   to chat with your friends.
+
+  Files included in the repository
+
+  index.html
+  style.css
+  server.js
